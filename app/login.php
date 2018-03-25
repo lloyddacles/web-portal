@@ -8,12 +8,12 @@
     <div class="container h-100">
       <div class="row  h-100">
           <div class="brand-lg">
-            <img src="assets/images/upoulogo.png">
+            <img src="assets/images/logoteam-alpha.png">
           </div>
           <div class="card-wrapper">
           <div class="brand">
             <a href="index.php">
-              <img src="assets/images/upoulogo.png">
+              <img src="assets/images/logoteam-alpha.png">
             </a>
           </div>
           <div class="card fat">
@@ -21,9 +21,7 @@
               <h4 class="card-title">Login</h4>
               <form method="POST">
                 <div class="form-group">
-                  <label for="username">Username
-                  </a>
-                  </label>
+                  <label for="username">Username</label>
                   <div class="input-group mb-2 mr-sm-2">
                   <div class="input-group-prepend">
                   <div class="input-group-text"><i class="fa fa-lg fa-user"></i></div>
@@ -33,7 +31,7 @@
                 </div>
                 <div class="form-group">
                   <label for="password">Password
-                    <a href="index.php" class="float-right">
+                    <a href="forgot-password.php" class="float-right">
                       Forgot Password?
                     </a>
                   </label>
@@ -57,7 +55,7 @@
                   </button>
                 </div>
                 <div class="margin-top20 text-center">
-                  Don't have an account? <a href="register.html">Create One</a>
+                  Don't have an account? <a href="register.php">Create One</a>
                 </div>
               </form>
             </div>

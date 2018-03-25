@@ -9,4 +9,4 @@
   <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png"/>
 	<script src="../vendor/components/jquery/jquery.min.js"></script>
 	<script src="../vendor/twbs/bootstrap/dist/js/bootstrap.min.js"></script>
-	<link rel="stylesheet" href="assets/stylesheets/login.css">
+	<link rel="stylesheet" href="assets/stylesheets/dashboard.css">

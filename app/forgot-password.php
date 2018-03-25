@@ -8,12 +8,12 @@
     <div class="container h-100">
       <div class="row  h-100">
           <div class="brand-lg">
-            <img src="assets/images/upoulogo.png">
+            <img src="assets/images/logoteam-alpha.png">
           </div>
           <div class="card-wrapper">
           <div class="brand">
             <a href="index.php">
-              <img src="assets/images/upoulogo.png">
+              <img src="assets/images/logoteam-alpha.png">
             </a>
           </div>
           <div class="card fat">
@@ -33,7 +33,7 @@
                   </button>
                 </div>
                 <div class="margin-top20 text-center">
-                  <a href="register.php"> Register an account</a> | <a href="login.html">Login now</a>
+                  <a href="register.php"> Register an account</a> | <a href="login.php">Login now</a>
                 </div>
               </form>
             </div>
