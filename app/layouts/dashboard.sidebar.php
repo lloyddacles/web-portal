@@ -20,8 +20,14 @@
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="drivers.php">
-                  <span class="fa fa-fw fa-car"></span>
+                  <span class="fa fa-fw fa-users"></span>
                   Drivers
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="rides.php">
+                  <span class="fa fa-fw fa-car"></span>
+                  Rides
                 </a>
               </li>
               <li class="nav-item">

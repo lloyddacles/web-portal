@@ -2,6 +2,10 @@ html,body {
 	height: 100%;
 }
 
+body {
+    background: linear-gradient(#fefefe, #c3d6dd);
+}
+
 body.login-page {
 	background-color: #f7f9fb;
 	font-size: 14px;
@@ -9,10 +13,8 @@ body.login-page {
 
 .login-page .brand {
 	width: 13rem;
-	height: 13rem;
 	overflow: hidden;
 	margin: 10px auto;
-	box-shadow: 0 0 40px rgba(0,0,0,.05);
 }
 
 .login-page .brand img {
@@ -31,9 +33,10 @@ body.login-page {
 	margin-left: auto;
 }
 
-.brand-lg img {
+.brand-lg a > img {
 	margin-top: 115px;
 	width: 20rem;
+	padding-right: 1rem;
 }
 
 .card {

@@ -16,6 +16,9 @@
             <a class="nav-link" href="drivers.php">Drivers</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="rides.php">Rides</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="payments.php">Payments</a>
           </li>
           <li class="nav-item">
@@ -26,7 +29,6 @@
             <div class="dropdown-menu dropdown-menu-right pull-right p-0" aria-labelledby="dropdown04">
               <a class="dropdown-item" href="#">Account Settings</a>
               <a class="dropdown-item" href="#">Help</a>
-              <div class="dropdown-divider"></div>
               <a class="dropdown-item" href="#">Sign Out</a>
             </div>
           </li>

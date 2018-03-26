@@ -8,7 +8,9 @@
     <div class="container h-100">
       <div class="row  h-100">
           <div class="brand-lg">
-            <img src="assets/images/logoteam-alpha.png">
+            <a href="index.php">
+              <img src="assets/images/logoteam-alpha.png">
+            <a href="index.php">
           </div>
           <div class="card-wrapper">
           <div class="brand">
